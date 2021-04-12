@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "alphacraft:block/nostalgia_cobblestone_slab_top"
+    },
+    "type=bottom": {
+      "model": "alphacraft:block/nostalgia_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "alphacraft:block/nostalgia_cobblestone"
+    }
+  }
+}

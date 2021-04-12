@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "snowy=false": {
+      "model": "alphacraft:block/nostalgia_grass_block"
+    },
+    "snowy=true": {
+      "model": "alphacraft:block/nostalgia_grass_block"
+    }
+  }
+}

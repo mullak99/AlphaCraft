@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "alphacraft:block/nostalgia_leaves"
+  }
+}

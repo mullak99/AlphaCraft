@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "alphacraft:nostalgia_cobblestone_wall_from_nostalgia_cobblestone_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_nostalgia_cobblestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "alphacraft:nostalgia_cobblestone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "alphacraft:nostalgia_cobblestone_wall_from_nostalgia_cobblestone_stonecutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_nostalgia_cobblestone",
+      "has_the_recipe"
+    ]
+  ]
+}

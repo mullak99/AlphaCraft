@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "odo",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:grass_block"
+    },
+    "d": {
+      "tag": "forge:dust/nostalgia_essence"
+    }
+  },
+  "result": {
+    "item": "alphacraft:nostalgia_grass_block",
+    "count": 8
+  }
+}

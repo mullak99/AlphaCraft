@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "alphacraft:nostalgia_ore"
+  },
+  "result": "alphacraft:nostalgia_essence",
+  "experience": 0.7,
+  "cookingtime": 100
+}

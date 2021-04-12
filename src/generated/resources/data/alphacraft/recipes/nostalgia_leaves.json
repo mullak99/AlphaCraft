@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "odo",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:oak_leaves"
+    },
+    "d": {
+      "tag": "forge:dust/nostalgia_essence"
+    }
+  },
+  "result": {
+    "item": "alphacraft:nostalgia_leaves",
+    "count": 8
+  }
+}
